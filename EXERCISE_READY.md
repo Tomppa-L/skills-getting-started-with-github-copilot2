@@ -18,3 +18,7 @@ This branch contains the complete implementation of the GitHub Copilot Skills ex
 Users can now create a PR from this branch to `main` to access the Copilot PR summary and review features.
 
 Create PR: `accelerate-with-copilot` → `main` with title "Add registration validation and more activities"
+
+---
+
+**✅ Exercise Flow Complete!** This branch is ready for the Step 4 "Summarize and review a PR with Copilot" activity.
